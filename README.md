@@ -23,9 +23,6 @@
   </div>
 
 
-  ![Snake animation](https://github.com/Mateuskjk/Mateuskjk/blob/output/github-contribution-grid-snake.svg)
-
-
   <h1>Reach Me 📫</h1>
 
   <div>
