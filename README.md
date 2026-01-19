@@ -1,7 +1,8 @@
   <h1>✨ Hi there, I'm Mateus ✨</h1>
 
   <ul>
-        <li>Graduated in Systems Analysis and Development at the Fametro</li>
+        <li>Graduated in Systems Analysis and Development at the Fametro 🎓</li>
+        <li>Postgraduate degree in software engineering with agile methodologies at the Fametro 🎓</li>
         <li>Passionate about the world of computing, programming 👨‍💻and games 🎮</li>
         <li>Quality Assurence student at the Alura 🚀💙 </li>
         <li>Automatation at Cal-comp Brazil 💚 </li>
