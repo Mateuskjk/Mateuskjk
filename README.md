@@ -6,6 +6,7 @@
         <li>Passionate about the world of computing, programming 👨‍💻and games 🎮</li>
         <li>Quality Assurence student at the Alura 🚀💙 </li>
         <li>Automatation at Cal-comp Brazil 💚 </li>
+        <li>No-code/low-code developer with N8N at RA TECNOLOGIA 🧡🤍💙🖥️</li>
   </ul>
 
 
