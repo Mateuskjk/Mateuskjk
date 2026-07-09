@@ -64,10 +64,6 @@ curiosidade: "Se dá pra automatizar, eu vou automatizar 🤖"
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mateuskjk&theme=dracula" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mateuskjk&theme=dracula&utcOffset=-4" width="49%"/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Mateuskjk&theme=dracula&hide_border=true&background=282a36&locale=pt_BR" height="180em"/>
-
 </div>
 
 <br/>
