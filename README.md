@@ -1,39 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mateus%20Silva&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=QA%20%7C%20Automation%20%7C%20Low-code&descAlignY=55&descSize=18" width="100%"/>
+**🇧🇷 Português** · [🇺🇸 English](README.en.md)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Hi+there%2C+I'm+Mateus+%E2%9C%A8;Quality+Assurance+%F0%9F%94%8D;Test+Automation+%F0%9F%A4%96;No-code+%2F+Low-code+Developer+%F0%9F%9B%A0%EF%B8%8F;Gamer+%F0%9F%8E%AE" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mateus%20Silva&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=QA%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Low-code&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=Mateuskjk&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Ol%C3%A1%2C+eu+sou+o+Mateus+%E2%9C%A8;Quality+Assurance+%F0%9F%94%8D;Automa%C3%A7%C3%A3o+de+Testes+%F0%9F%A4%96;Dev+No-code+%2F+Low-code+%F0%9F%9B%A0%EF%B8%8F;Gamer+%F0%9F%8E%AE" alt="Typing SVG"/>
 
 </div>
 
 <br/>
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
 ```yaml
-name: Mateus Silva
-location: Brazil 🇧🇷
-role: Automation @ Cal-comp Brazil 💚 | No-code/Low-code Dev @ RA TECNOLOGIA 🖥️
-fun_fact: "If it can be automated, I will automate it 🤖"
+nome: Mateus Silva
+localização: Manaus, Brasil 🇧🇷
+cargo: Dev No-code/Low-code @ RA TECNOLOGIA 🖥️
+curiosidade: "Se dá pra automatizar, eu vou automatizar 🤖"
 ```
 
-- 🎓 Graduated in **Systems Analysis and Development** — Fametro
-- 🎓 Postgraduate in **Software Engineering with Agile Methodologies** — Fametro
-- 🔍 **Quality Assurance** student at Alura 🚀💙
-- ⚙️ **Automation** at Cal-comp Brazil 💚
-- 🛠️ **No-code/Low-code developer** with **N8N** at RA TECNOLOGIA 🧡🤍💙
-- 👨‍💻 Passionate about computing, programming and games 🎮
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** — Fametro
+- 🎓 Pós-graduado em **Engenharia de Software com Métodos Ágeis** — Fametro
+- 🔍 Formado em **Quality Assurance** na Alura 🚀💙
+- ⚙️ Trabalhei com **Automação** na Cal-comp Brasil 💚
+- 🛠️ Desenvolvedor **No-code/Low-code** com **N8N** na RA TECNOLOGIA 🧡🤍💙
+- 👨‍💻 Apaixonado pelo mundo da computação, programação e games 🎮
 
 <br/>
 
-## 💻 Languages & Tools
+## 💻 Linguagens & Ferramentas
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cs,js,git,postman&theme=dark" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain-wordmark.svg" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/cypress/69D3A7" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48"/>
 
 <br/><br/>
 
@@ -49,28 +50,29 @@ fun_fact: "If it can be automated, I will automate it 🤖"
 
 <br/>
 
-## ⚡ GitHub Stats
+## ⚡ Estatísticas do GitHub
 
 <div align="center">
 
 <a href="https://github.com/Mateuskjk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateuskjk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=282a36"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuskjk&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=282a36"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateuskjk&theme=dracula" width="100%"/>
 </a>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mateuskjk&theme=dracula" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mateuskjk&theme=dracula" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mateuskjk&theme=dracula" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mateuskjk&theme=dracula&utcOffset=-4" width="49%"/>
+
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mateuskjk&theme=dracula&hide_border=true&background=282a36" height="180em"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mateuskjk&theme=dracula&no-frame=true&column=7&margin-w=10" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Mateuskjk&theme=dracula&hide_border=true&background=282a36&locale=pt_BR" height="180em"/>
 
 </div>
 
 <br/>
 
-## 📫 Reach Me
+## 📫 Fale Comigo
 
 <div align="center">
 
